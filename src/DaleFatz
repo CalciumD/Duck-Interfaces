@@ -1,0 +1,11 @@
+public class DaleFatz {
+
+
+  public void Redbull(){
+    System.out.println("Get me redbull");
+  }
+
+
+
+
+}
