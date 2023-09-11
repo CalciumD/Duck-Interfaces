@@ -33,5 +33,7 @@ public class Main{
 	{
 		Main main = new Main();
 		main.makeSomeDucks();
+		DaleFatz df =  new DaleFatz();
+		df.Redbull();
 	}
 }
